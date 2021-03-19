@@ -2,4 +2,3 @@ flask
 sqlalchemy
 datetime
 flask_login
-werkzeug.utils
