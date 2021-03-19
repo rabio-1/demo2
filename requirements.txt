@@ -1,1 +1,3 @@
 flask
+werkzeug.utils
+flask_login
