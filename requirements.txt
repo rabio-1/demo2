@@ -2,3 +2,6 @@ flask
 sqlalchemy
 datetime
 flask_login
+werkzeug
+wtforms
+flask_wtf
